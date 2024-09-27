@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @wisecrepin
-- 👀 I’m interested in software engineering problem solving
-- 🌱 I’m currently learning at ALX software engineering program
-- 💞️ I’m looking to collaborate on tangible projects to help the world tech 
-- 📫 How to reach me email:ngomawisecrepin@gmail.com 
+# 💫 About Me:
+👨‍💻 About Me<br>I’m a dedicated software developer focused on web development. With a background in Maths, Physics, and Computer Science, I’m passionate about building impactful projects and learning new technologies. My current focus is on mastering JavaScript and APIs to create dynamic, user-friendly applications.<br><br>🔭 What I’m Working On<br>Hangman Game: Currently building an interactive Hangman game using JavaScript, exploring game logic and enhancing user experience.<br>To-Do List: Completed a simple, effective To-Do List web app that allows users to manage tasks through an intuitive interface.<br>Notes App: Built a Notes app that uses Local Storage to save and manage user notes efficiently.<br>🌱 What I’m Learning<br>JavaScript APIs: Currently learning how to work with APIs to integrate external data and enhance interactivity in my projects.<br>Expanding JavaScript Skills: Focusing on vanilla JavaScript, improving my problem-solving abilities, and preparing to dive into frameworks like React.js in the future.<br>🚀 What I’m Looking Forward To<br>Building more interactive web applications: Expanding my knowledge in JavaScript to create more complex and dynamic projects.<br>Joining the Andela Apprenticeship Program: Excited to apply in October and grow alongside other developers, enhancing my skills in preparation for real-world projects.<br>Creating a tech opportunities club: Aiming to support peers in the tech community by connecting them to learning resources and career opportunities.<br>💼 Past Projects<br>To-Do List: A practical, simple task management app.<br>Notes App: Enables users to save, edit, and delete notes using Local Storage for persistent data handling.<br>HangmanGame:A game that generates a hidden word and you guess the letters of the words to win
 
-<!---
-wisecrepin/wisecrepin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wisecrepin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wisecrepin) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@wisecrepin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wisecrepin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wisecrepin741) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wisecrepin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wisecrepin&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wisecrepin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
